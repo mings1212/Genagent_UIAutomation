@@ -1,6 +1,8 @@
 
 <img width="100%" src="./images/banner2.jpg" alt="PaddleOCR Banner" />
 
+简体中文 | [English](./README.md) 
+
 # 为什么要做这个项目？
  
 我是一个UI自动化工程师，我深知在许多公司里，UI自动化的普及性远不如API自动化，许多公司甚至完全不考虑UI自动化，因为投入产出比不高。
