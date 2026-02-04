@@ -5,7 +5,7 @@ English | [简体中文](./README_cn.md)
 </br>
  [>>User Guide](./README_en_guide.md) 
 
-# Why do we undertake this project?
+# Why do we develop this project?
  
 I am a UI automation engineer, and I am well aware that in many companies, the popularity of UI automation is far lower than that of API automation. Many companies even completely disregard UI automation due to its low ROI.
 </br>
